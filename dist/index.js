@@ -6,7 +6,7 @@
 /************************************************************************/
 var __webpack_exports__ = {};
 async function run(){
-    console.log('Hello,World!')
+    console.log('Hello,World!');
 }
 
 run();

@@ -1,5 +1,5 @@
 async function run(){
-    console.log('Hello,World!')
+    console.log('Hello,World!');
 }
 
 run();
